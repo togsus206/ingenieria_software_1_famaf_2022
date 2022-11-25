@@ -1,0 +1,16 @@
+.my-conteiner{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3em;
+}
+
+#gameBoard {
+    height: 600px;
+    width: 600px;
+    background-color: rgb(10, 10, 10);
+    border: 15px solid rgb(111, 109, 109);
+}
+
+.my-progress, .my-progress-bar {
+    width: 50% !important;
+}

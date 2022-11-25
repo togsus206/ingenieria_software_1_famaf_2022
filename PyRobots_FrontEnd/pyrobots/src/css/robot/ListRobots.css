@@ -1,0 +1,18 @@
+.box {
+  background: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 1);
+  color:white;
+}
+
+.robots-list .robot-item{
+padding: 20px 0;
+margin-bottom: 20px;
+}
+
+img.profile-photo-lg{
+height: 80px;
+width: 80px;
+border-radius: 50%;
+}
