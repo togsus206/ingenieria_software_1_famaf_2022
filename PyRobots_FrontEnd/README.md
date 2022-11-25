@@ -20,5 +20,9 @@ $ git tag <tag_name> <commit_hash>
 		Ejemplo: feature_PYR-16_Crear_app_React
 	Utilizar el JIRA_CODE como prefijo para los commits
 
+##### Run
 
+-Se ingresa a la carpeta pyrobots y se corre con npm start
+- Test: npm test
+y luego presionar "a" para correr todos los test
 ------------
