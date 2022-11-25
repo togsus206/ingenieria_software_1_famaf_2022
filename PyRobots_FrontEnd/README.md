@@ -25,4 +25,9 @@ $ git tag <tag_name> <commit_hash>
 -Se ingresa a la carpeta pyrobots y se corre con npm start
 - Test: npm test
 y luego presionar "a" para correr todos los test
+
+
+
+### RECORDAR TENER INSTALADOR ULTIMA VERSION NPM
+npm install
 ------------
